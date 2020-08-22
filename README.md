@@ -5,6 +5,7 @@
 ## Dataset
 
 > ChEMBL Data is a manually curated database of small molecules used in drug discovery, including information about existing patented drugs 
+
 > The `Google BigQuery` query is shown below to obtain the three datasets. The three `csv` files were combined using `pandas`. There are three `csv` files because the free trial version of `Goolge BigQuery` has a limit to the memory usage for querying public datasets, therefore three separate queries were run and combined in the end. 
 
 > - First query:
@@ -111,25 +112,27 @@ SELECT *
 ## Summary of Findings
 
 > The mean numerical features (molecular descriptors) of this small dataset are as follows:
-```
-mw_freebase : 428.973270
-alogp : 2.370098
-psa : 93.431967
-acd_most_bpka : 6.661588
-acd_logp : 2.357922
-acd_logd : 1.053922
-full_mwt : 463.672533
-qed_weighted : 0.550195
-hba : 4.993333
-hbd : 1.873333
-rtb : 5.558667
-num_ro5_violations : 0.360000
-aromatic_rings : 1.484000
-heavy_atoms : 25.386667
-num_alerts : 0.928000
-hba_lipinski : 5.901333
-hbd_lipinski : 2.117333
-num_lipinski_ro5_violations : 0.254667
+
+|Feature | Mean Value|
+| :---: | :---:|
+|mw_freebase | 428.973270|
+|alogp | 2.370098|
+|psa | 93.431967|
+|acd_most_bpka | 6.661588|
+|acd_logp | 2.357922|
+|acd_logd | 1.053922|
+|full_mwt | 463.672533|
+|qed_weighted | 0.550195|
+|hba | 4.993333|
+|hbd | 1.873333|
+|rtb | 5.558667|
+|num_ro5_violations | 0.360000|
+|aromatic_rings | 1.484000|
+|heavy_atoms | 25.386667|
+|num_alerts | 0.928000|
+|hba_lipinski | 5.901333|
+|hbd_lipinski | 2.117333|
+|num_lipinski_ro5_violations | 0.254667|
 ```
 > Furthermore, the most common chemical subgroup is benzene; the US has developed the most drug compounds and more specifically Pfizer has the most drugs on the market. 
 
