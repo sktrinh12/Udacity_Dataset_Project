@@ -1,0 +1,792 @@
+molregno,doc_id,black_box_warning,inorganic_flag,indication_class,rn
+10009,-1,0,0,Anti-Inflammatory (topical),1
+101924,100207,0,0,Neuromuscular Blocking Agent,1
+102584,-1,0,0,,1
+1031157,75466,0,-1,,1
+1038355,-1,1,0,,1
+1038357,-1,1,0,,1
+1051125,100208,1,0,Antidepressant,1
+1051353,-1,0,0,,1
+1064511,64615,1,0,Antineoplastic,1
+107119,59306,1,0,Antiviral,1
+1073669,-1,0,0,,1
+1078532,100207,0,0,,1
+109797,-1,1,0,Antihypertensive,1
+1102940,-1,0,0,,1
+110803,75454,0,0,Antihistaminic,1
+111390,100208,1,0,Tranquilizer (minor),1
+111491,-1,0,0,Inhibitor (beta-lactamase),1
+112090,100207,1,0,,1
+1123018,100208,0,0,,1
+112480,100208,0,0,Protectant (topical); Radioprotector,1
+112665,100208,0,0,Antibacterial,1
+113138,100207,0,0,,1
+1158402,-1,0,0,,1
+116349,64690,1,0,Antagonist (angiotensin II receptor); Antihypertensive,1
+11674,64073,1,0,Anti-Inflammatory,1
+11819,59306,0,0,Anesthetic (intravenous),1
+119162,100208,0,0,,1
+119498,100207,1,0,,1
+119640,75454,1,0,Antineoplastic,1
+11968,92167,1,0,"Anti-Inflammatory,Anti-Inflammatory; Analgesic",1
+121124,-1,0,0,Dopamine Agonist; Antihypertensive,1
+1214046,84147,0,0,,1
+1216,-1,0,0,Antibacterial,1
+122901,100208,0,0,,1
+123693,100208,1,0,Anti-Inflammatory,1
+12428,-1,1,0,Antibacterial,1
+12465,100207,0,0,Antibacterial,1
+1248732,-1,0,0,Antidote (to folic acid antagonists),1
+1248733,-1,1,0,,1
+127755,-1,0,0,Hemostatic,1
+1277553,100208,1,0,,1
+1279,75456,1,0,Anti-Adrenergic (beta-receptor),1
+1285392,-1,0,0,,1
+1285394,-1,0,0,,1
+1331852,-1,0,0,,1
+1339278,61872,0,-1,,1
+1339907,-1,1,0,,1
+1341084,100208,0,0,Antagonist (bradykinin),1
+134333,84147,0,0,Diuretic,1
+1347273,100207,0,0,,1
+13474,-1,0,0,,1
+13494,17494,0,0,Antifungal,1
+1351456,-1,0,0,,1
+1355848,-1,0,0,Adrenergic (ophthalmic),1
+1355850,100208,1,0,,1
+1355857,-1,0,0,Analgesic,1
+13590,75456,1,0,Antineoplastic,1
+136161,-1,0,0,Anticonvulsant,1
+1363818,100207,0,0,Androgen,1
+1369607,-1,0,0,,1
+1369608,-1,0,0,,1
+1369645,100207,0,0,"Radioactive Agent; Diagnostic Aid (radiopaque medium, cardiac perfusion)",1
+1369660,-1,0,0,,1
+1369669,-1,0,0,Radioactive Agent; Antineoplastic,1
+13758,75456,0,0,Antifungal,1
+1376005,-1,0,0,,1
+1376009,-1,0,0,"Anti-Allergic; Antihistaminic, H1-Receptor; Asthma Prophylactic",1
+1376010,-1,1,0,,1
+1376013,-1,1,0,,1
+1376065,-1,1,0,,1
+1376072,-1,0,0,,1
+1376092,-1,0,0,,1
+1376097,100207,0,0,,1
+1376111,100207,0,0,,1
+1376138,-1,1,0,,1
+1376140,-1,0,0,,1
+1376143,100208,1,0,,1
+1376147,100207,0,0,,1
+1376661,100207,0,0,,1
+1377080,-1,0,0,"Diagnostic Aid (radiopaque medium, cardiac perfusion); Radioactive Agent",1
+1377665,-1,1,0,,1
+1377932,-1,1,0,,1
+1377939,-1,0,0,,1
+1377952,-1,1,0,,1
+1377970,-1,1,0,,1
+1377978,-1,1,0,,1
+1378002,-1,1,0,,1
+1378013,-1,1,0,,1
+1378030,-1,1,0,,1
+1378885,-1,1,0,,1
+1379337,100208,0,0,,1
+1379644,-1,0,0,,1
+1379758,100207,0,0,Radioactive Agent; Diagnostic Aid (renal function determination),1
+1380067,-1,0,0,Progestin,1
+1380450,-1,0,0,,1
+1380602,100208,0,0,,1
+1382808,100208,0,0,Antihypertensive,1
+1382812,-1,0,0,Antagonist (to histamine-H2 receptors),1
+1383722,100207,0,0,Antagonist (to histamine-H2 receptors),1
+138562,-1,1,0,Antihyperlipidemic,1
+139014,100207,1,0,,1
+139045,100079,1,0,Antihypertensive,1
+139210,100207,1,0,Anti-Inflammatory,1
+139225,59306,1,0,Anti-Inflammatory,1
+13928,-1,1,0,Keratolytic,1
+139281,64073,1,0,Diuretic,1
+139286,84147,0,0,Antidiabetic,1
+13949,100207,1,0,Antipsychotic,1
+139940,100208,0,0,,1
+1406675,-1,1,0,Bronchodilator,1
+14125,100208,0,0,Oxytocic; Prostaglandin,1
+141484,100207,1,0,Anticonvulsant (tardive dyskinesia),1
+1417028,-1,0,0,,1
+1425665,100207,0,0,,1
+143284,100207,0,0,Antibacterial,1
+144744,51887,0,-1,,1
+1448219,84147,1,0,,1
+1449158,100208,0,0,Antineoplastic,1
+1449219,-1,1,0,,1
+1449220,-1,0,0,,1
+146,64555,1,0,Antibacterial,1
+147,84147,0,0,Antibacterial,1
+149095,-1,0,0,Antiviral,1
+1503092,-1,1,0,,1
+150451,100208,1,0,Anti-Epileptic,1
+150549,100207,0,0,Anti-Allergic,1
+15086,-1,1,0,Analgesic; Anticonvulsant,1
+152751,100208,1,0,Antipsychotic,1
+1535336,-1,0,0,Antipsychotic,1
+1537268,-1,0,0,Antipsychotic,1
+1540509,-1,1,0,,1
+1543312,-1,1,0,Analgesic,1
+1543375,100208,0,0,Antimigraine; Anti-Emetic,1
+1548671,-1,0,0,,1
+155006,100084,1,0,Antipsychotic; Antischizophrenic,1
+155045,59306,1,0,Antidepressant,1
+1570706,-1,0,0,,1
+158276,-1,1,0,Anti-Estrogen,1
+1590761,-1,1,0,,1
+1592294,-1,0,0,Antibacterial,1
+1592384,100207,0,0,,1
+1592405,-1,1,0,Antibacterial,1
+1592407,-1,1,0,Antihypertensive; Enzyme Inhibitor (angiotensin-converting),1
+1623950,-1,0,0,,1
+1626740,-1,0,0,,1
+16308,100207,1,0,"Anti-Inflammatory; Analgesic,Inhibitor (prostaglandin synthesis)",1
+164064,64154,0,0,Choleretic,1
+16415,75453,0,0,Antihyperlipidemic,1
+16506,-1,0,0,Tranquilizer (minor),1
+16591,64810,1,0,Anti-Inflammatory,1
+1672484,-1,0,0,Antibacterial,1
+1673803,-1,1,0,Antibacterial,1
+1674197,100207,0,0,Antibacterial,1
+16959,59306,1,0,Tranquilizer (minor),1
+169652,100207,1,0,Antipsoriatic,1
+170395,-1,0,0,Anticholinergic,1
+1712,75454,0,0,Antibacterial,1
+171587,100207,1,0,,1
+17169,64482,1,0,Antiviral,1
+17347,75454,0,0,,1
+17411,75452,1,0,Diuretic,1
+175106,100208,0,0,,1
+1763559,-1,0,0,,1
+1795,64134,1,0,Antibacterial,1
+180329,59306,0,0,Diuretic,1
+1825632,-1,0,0,,1
+18694,100208,1,0,,1
+187372,100207,0,0,,1
+187696,100207,0,0,Steroid (topical),1
+188815,100207,0,0,Anticoagulant,1
+189203,59306,1,0,Enzyme Inhibitor (angiotensin-converting); Antihypertensive,1
+191342,84147,0,0,,1
+1926757,-1,0,0,Antihistaminic,1
+1926758,-1,0,0,Regulator (calcium),1
+1926823,-1,1,0,,1
+1926911,-1,0,0,,1
+1926912,-1,0,0,,1
+1927030,100207,0,0,,1
+1927101,64683,1,0,Antineoplastic,1
+1927281,-1,0,0,,1
+193281,100207,1,0,,1
+1991,-1,1,0,Anticonvulsant,1
+2046,-1,1,0,Diuretic,1
+2080,84147,0,0,Antimalarial,1
+209829,100208,1,0,Antipsychotic,1
+210388,-1,1,0,Antibacterial,1
+213505,-1,0,0,Antiviral,1
+21459,59306,1,0,Antagonist (to narcotics),1
+21523,100117,0,0,Anti-Asthmatic (leukotriene antagonist),1
+21697,100207,0,0,,1
+221962,84147,0,0,,1
+222633,75454,1,0,Antiprotozoal,1
+22391,100207,1,0,Anti-Ulcerative,1
+2247,-1,0,0,Antibacterial,1
+22641,59306,0,0,Antihyperlipidemic,1
+226880,100208,0,0,Antihistaminic,1
+227437,-1,1,0,,1
+229172,64807,0,0,,1
+230444,-1,0,0,Antidote (to iron poisoning); Chelating Agent,1
+230691,100208,0,0,Anti-Acne,1
+236376,-1,0,0,Gonad-Stimulating Principle,1
+237298,-1,1,0,Gonad-Stimulating Principle; Antagonist (LHRH),1
+241,64461,1,0,Antibacterial,1
+243124,100207,1,0,,1
+24418,-1,1,0,Antiviral,1
+246,64080,1,0,Antibacterial,1
+2465,59306,0,0,Anticonvulsant,1
+248669,84147,0,0,,1
+249414,84147,1,0,Antineoplastic,1
+249814,-1,0,0,Dopamine Agonist,1
+25047,100207,0,0,,1
+250908,59306,1,0,Immunomodulator,1
+252155,64060,1,0,,1
+253862,59306,0,0,Antibacterial,1
+255347,90849,0,0,Antibacterial (tuberculostatic); Antibacterial (leprostatic),1
+259959,59306,0,0,Antifungal,1
+26280,-1,0,0,Antibacterial,1
+263453,100208,0,0,Vasodilator (coronary),1
+26386,-1,1,0,Antibacterial,1
+26431,-1,1,0,Anti-Inflammatory,1
+264453,-1,0,0,Anti-Inflammatory,1
+2654,75456,0,0,Diuretic,1
+26590,75455,0,0,Anthelmintic,1
+267825,100208,1,0,Antiparkinsonian,1
+27029,75455,0,0,Vasodilator,1
+27152,59306,0,0,Glucocorticoid,1
+271725,-1,0,0,Diagnostic Aid (gastric secretion indicator),1
+27251,100207,0,0,,1
+27307,-1,1,0,Antiviral,1
+27308,-1,0,0,,1
+27419,100208,1,0,Sedative-Hypnotic,1
+27570,75455,1,0,Anti-Adrenergic (beta-receptor),1
+27575,64384,0,0,Glucocorticoid,1
+27609,64726,1,0,Antihypertensive,1
+27610,100208,1,0,Antidepressant,1
+27648,75454,0,0,Sedative-Hypnotic,1
+27912,75456,1,0,"Antibacterial,Antiprotozoal (trichomonas)",1
+281549,100208,0,0,,1
+28699,-1,0,0,Bone Resorption Inhibitor,1
+293438,100208,0,0,Inhibitor (pancreatic lipase),1
+29637,-1,0,0,Anthelmintic,1
+2994,100207,0,0,Antihyperlipidemic,1
+29989,84147,1,0,Anti-Inflammatory; Analgesic,1
+300022,-1,1,0,Antineoplastic,1
+30072,100148,1,0,Analgesic (narcotic),1
+304798,-1,0,0,,1
+305519,64742,0,0,Antibacterial,1
+30602,-1,0,0,Antihyperlipidemic,1
+308917,-1,1,0,Antirheumatic,1
+31289,100207,0,0,Multiple Sclerosis Symptomatic Treatment,1
+313314,100154,1,0,Anti-Inflammatory,1
+317124,92167,1,0,Analeptic (treatment of narcolepsy hypersomnia),1
+31811,59306,0,0,Anticonvulsant,1
+3183,-1,0,0,Anti-Anxiety Agent; Anti-Emetic; Antischizophrenic,1
+319858,-1,0,0,,1
+321696,75455,0,0,,1
+328153,-1,0,0,Progestin,1
+328164,100208,0,0,Progestin,1
+328601,100208,1,0,,1
+32869,100132,1,0,Relaxant (muscle),1
+33216,100207,0,0,,1
+334337,94010,0,0,,1
+33576,-1,1,0,,1
+33679,59306,1,0,Inhibitor (alpha reductase),1
+337366,92167,0,0,Antineoplastic,1
+33889,-1,1,0,,1
+338934,-1,0,0,,1
+33986,100208,1,0,Antiviral,1
+340684,100208,0,0,,1
+341382,84147,0,0,Anti-Anginal,1
+341603,-1,0,0,,1
+34197,75454,1,0,Antipsychotic,1
+345595,-1,1,0,Antiobsessional Agent,1
+35271,100207,0,0,Antibacterial (topical),1
+353011,-1,1,0,Antifungal,1
+353270,-1,0,0,,1
+360720,100208,0,0,,1
+361469,100208,0,0,,1
+364141,17494,0,0,Antipsychotic,1
+364859,100208,0,0,Antihypertensive,1
+365189,64420,0,0,Antibacterial,1
+365248,75455,1,0,Vasodilator,1
+365284,-1,1,0,Antiviral,1
+366271,100208,1,0,,1
+366278,100208,0,0,Antiglaucoma Agent,1
+366279,100208,1,0,Anticonvulsant,1
+36662,75454,0,0,Antihypertensive; Anti-Anginal,1
+368538,-1,1,0,Antineoplastic,1
+372438,100208,1,0,,1
+3730,75454,0,0,Antihypertensive,1
+37316,90849,0,0,,1
+373806,100208,0,0,Enzyme Inhibitor (influenza virus neuraminidase); Antiviral,1
+373856,-1,0,0,Inhibitor (beta-lactamase),1
+373970,-1,0,0,,1
+374548,59306,0,0,Antineoplastic,1
+378218,-1,0,0,Anthelmintic,1
+3859,64424,1,0,Antidyskinetic (in gilles de la tourette's disease); Antipsychotic,1
+386457,59306,1,0,Immunomodulator,1
+38727,84147,1,0,Anticonvulsant,1
+38898,100208,0,0,Amyotrophic Lateral Sclerosis Treatment,1
+390877,100207,1,0,Antiviral,1
+390990,100207,1,0,,1
+393942,100207,1,0,Antifungal,1
+394996,-1,1,0,,1
+395607,75451,0,0,Xanthine Oxidase Inhibitor,1
+397074,59306,0,0,Antibacterial (antimycobacterial),1
+397524,100208,1,0,,1
+39857,100208,0,0,Anticonvulsant,1
+399361,100208,0,0,,1
+399873,-1,0,0,,1
+400344,-1,0,0,Prothyrotropin,1
+40536,-1,0,0,Analgesic,1
+405364,90849,1,0,Anterior Pituitary Suppressant,1
+405365,100207,0,0,Vasodilator,1
+405366,75454,0,0,Hypoglycemic,1
+406189,-1,0,0,,1
+406787,64495,0,0,Anthelmintic,1
+407354,-1,0,0,Inhibitor (HMG-CoA reductase),1
+416772,100157,1,0,,1
+417163,-1,1,0,,1
+418344,-1,0,0,Antineoplastic,1
+418401,59306,0,0,Antineoplastic,1
+4193,-1,0,0,Antipsoriatic,1
+419596,75455,1,0,Vasodilator (coronary),1
+419601,75452,1,0,"Antisecretory (gastric),Depressant (gastric acid secretory)",1
+421032,100207,1,0,Aldosterone Antagonist,1
+421058,100207,0,0,Glucocorticoid,1
+421066,100207,1,0,Antihypertensive (angiotensin II receptor antagonist),1
+421317,100207,1,0,,1
+421332,100207,1,0,Sedative-Hypnotic,1
+426067,-1,0,0,Anti-Emetic,1
+428747,100208,1,0,Progestin,1
+429174,100207,0,0,Progestin,1
+430546,59306,0,0,Antibacterial,1
+430597,100207,0,0,Antiviral,1
+430642,64165,0,0,Antibacterial,1
+431141,100208,1,0,Immunosuppressant,1
+435188,-1,0,0,,1
+435293,-1,1,0,,1
+438435,-1,0,0,,1
+442943,64104,1,0,Antineoplastic,1
+444077,-1,1,0,Adrenergic,1
+444191,-1,0,0,Antihypertensive,1
+444419,100208,1,0,Antifungal,1
+444750,75455,1,0,Enzyme Inhibitor (angiotensin-converting); Antihypertensive,1
+445681,-1,0,0,Inhibitor (alpha-glucosidase),1
+446279,-1,1,0,Antineoplastic,1
+448986,-1,0,0,Inhibitor (alpha-glucosidase),1
+44920,-1,0,0,,1
+452635,100208,0,0,Antiviral,1
+453121,-1,0,0,Antineoplastic,1
+453578,100207,1,0,Potentiator,1
+453721,-1,0,0,Antipsychotic,1
+453722,100208,0,0,Antineoplastic,1
+453832,100207,0,0,Antihypertensive; Diuretic,1
+454576,100207,0,0,Antibacterial,1
+454578,64853,0,0,Antibacterial,1
+456123,-1,1,0,,1
+456266,-1,1,0,Antineoplastic (DNA topoisomerase I Inhibitor),1
+458773,100207,0,0,,1
+460466,100207,0,0,,1
+46727,75454,0,0,,1
+467361,64027,1,0,Antineoplastic,1
+469866,-1,0,0,,1
+470800,-1,0,0,,1
+4730,100208,1,0,Antineoplastic,1
+47340,-1,1,0,Anti-Estrogen,1
+47675,100208,0,0,Antiviral (ophthalmic),1
+479129,100208,0,0,Anti-Asthmatic,1
+480382,-1,0,0,Antineoplastic,1
+485902,100208,1,0,Antibacterial,1
+486789,100207,0,0,Antagonist (calcium channel),1
+48701,64122,1,0,Antiviral,1
+490427,92167,0,0,Antineoplastic,1
+494630,-1,0,0,Regulator (calcium),1
+495572,-1,0,0,Keratolytic,1
+497291,100207,0,0,Antibacterial,1
+498105,-1,1,0,,1
+49931,64140,1,0,Antineoplastic,1
+5028,84147,1,0,Sedative-Hypnotic,1
+504310,-1,1,0,Antineoplastic,1
+50440,75455,1,0,Inhibitor (platelet); Vasodilator; Antithrombotic,1
+505776,100208,1,0,Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic (beta-receptor),1
+508532,100208,0,0,,1
+508604,-1,0,0,Cognition Adjuvant; Dementia Symptoms Treatment Adjunct,1
+508667,100208,0,0,Dementia Symptoms Treatment Adjunct; Inhibitor (acetylcholinesterase); Cognition Adjuvant; Alzheimer's Disease Treatment (adjunct),1
+51042,84147,1,0,Hair Growth Stimulant (topical); Antihypertensive,1
+51056,64811,1,0,"Anti-Inflammatory; Antipyretic; Analgesic,Antipyretic; Anti-Inflammatory; Analgesic",1
+51182,100208,1,0,"Antiviral,Antiviral; Antineoplastic",1
+518361,100207,0,0,Analgesic,1
+520269,-1,0,0,,1
+52087,75452,1,0,,1
+524710,100208,0,0,Vasodilator (peripheral),1
+529987,100208,1,0,Antimalarial; Suppressant (lupus erythematosus),1
+53686,84147,1,0,,1
+543171,100208,1,0,Antimalarial,1
+543228,-1,0,0,Antihypertensive; Anti-Anginal,1
+544432,100208,1,0,Enzyme Inhibitor (angiotensin-converting),1
+544765,-1,0,0,Anticonvulsant,1
+545075,100208,1,0,Antidepressant,1
+54547,75454,0,0,Anti-Emetic,1
+545509,100208,0,0,Vasodilator (coronary),1
+545956,-1,1,0,Antidepressant,1
+546564,92167,1,0,Anti-Adrenergic (beta-receptor),1
+547576,100208,1,0,,1
+547681,-1,1,0,Antidiabetic,1
+548124,-1,1,0,Antihypertensive,1
+548913,-1,1,0,Antiperistaltic,1
+549372,-1,1,0,Antidepressant,1
+549674,-1,0,0,Antiviral,1
+550657,-1,1,0,Anesthetic,1
+550857,-1,1,0,Antidiabetic,1
+551147,100208,0,0,Antagonist (to narcotics),1
+551224,-1,0,0,Anti-Allergic,1
+551486,-1,0,0,Antinauseant; Anti-Emetic,1
+553490,-1,0,0,Antihypertensive (alpha-blocker),1
+554800,-1,0,0,Diagnostic Aid (radiopaque medium),1
+554892,75455,0,0,Vasodilator (coronary),1
+557467,-1,0,0,Antibacterial,1
+5582,64449,0,0,Antidiabetic,1
+56131,75455,0,0,Antidiabetic,1
+562404,-1,0,0,,1
+563318,-1,0,0,Antiviral,1
+5638,100207,1,0,Cardiac Depressant (anti-arrhythmic),1
+564291,100109,1,0,Impotence Therapy,1
+56831,-1,0,0,Antifungal,1
+570147,92167,1,0,Antibacterial,1
+57175,75454,0,0,Antibacterial,1
+574519,-1,0,0,,1
+5797,84147,0,0,Cardiac Depressant (anti-arrhythmic),1
+583530,84147,0,0,Analgesic,1
+591037,100207,0,0,Anti-Inflammatory,1
+59519,84147,1,0,Tranquilizer (minor),1
+596044,100208,0,0,Biological Response Modifier,1
+5975,84147,1,0,Anti-Ulcerative,1
+598447,-1,1,0,Antineoplastic,1
+602271,100207,0,0,,1
+604618,-1,0,0,Relaxant (skeletal muscle),1
+604643,100208,0,0,Antibacterial,1
+609761,100207,0,0,,1
+610112,-1,0,0,Antibacterial,1
+611647,-1,0,0,,1
+611679,-1,0,0,Relaxant (skeletal muscle),1
+61680,-1,1,0,Antimicrobial,1
+61682,64742,1,0,Antibacterial,1
+61945,100207,0,0,,1
+624185,-1,0,0,,1
+624251,-1,0,0,Cardiac Depressant (anti-arrhythmic); Anti-Adrenergic,1
+626138,-1,0,0,,1
+626453,-1,1,0,Antihypertensive; Aldosterone Antagonist,1
+62701,75452,1,0,Antidiabetic,1
+630322,-1,0,0,,1
+630396,-1,1,0,Inhibitor (platelet),1
+630439,-1,1,0,,1
+63100,-1,1,0,,1
+631502,-1,0,0,Bronchodilator,1
+631810,-1,1,0,,1
+63252,75456,0,0,Regulator (calcium),1
+63445,100207,0,0,Antischistosomal,1
+635,64668,1,0,Antagonist (to benzodiazepine),1
+63649,100208,1,0,,1
+64200,-1,0,0,Disinfectant,1
+6480,-1,0,0,Anti-Asthmatic (prophylactic),1
+65351,100207,0,0,Antibacterial,1
+65415,75455,1,0,Antineoplastic,1
+65494,100208,1,0,Antiviral,1
+666,64365,0,0,Antidiabetic,1
+67010,84147,1,0,,1
+674273,-1,1,0,,1
+674274,-1,0,0,Anti-Adrenergic (beta-receptor); Anti-Adrenergic (alpha-receptor),1
+674277,100208,0,0,Vasodilator,1
+674279,-1,1,0,Antidepressant,1
+674280,-1,0,0,Antispasmodic,1
+674282,-1,0,0,Antibacterial,1
+674283,-1,1,0,Antidepressant,1
+674291,-1,0,0,,1
+674292,-1,0,0,Cardiac Depressant (anti-arrhythmic),1
+674294,100208,1,0,Antihypertensive,1
+674297,-1,1,0,"Diagnostic Aid (paramagnetic, brain disorders, spine disorders)",1
+674299,100208,0,0,Antifungal,1
+674307,-1,0,0,Antibacterial,1
+674308,-1,0,0,Anti-Infective,1
+674310,100207,0,0,Antibacterial,1
+674317,-1,0,0,Antibacterial,1
+674319,100207,0,0,Diagnostic Aid (pancreas function determination),1
+674325,100208,0,0,,1
+674327,-1,0,0,Glucocorticoid,1
+674330,-1,0,0,Adrenergic (alpha12-agonist),1
+674331,100208,0,0,Antiviral,1
+674333,-1,0,0,Vasodilator,1
+674335,-1,0,0,Glucocorticoid,1
+674336,-1,0,0,Stimulant (cardiac),1
+674337,100207,0,0,Glucocorticoid,1
+674339,-1,0,0,Antibacterial,1
+674344,-1,0,0,Antibacterial,1
+674347,-1,1,0,Anesthetic (local),1
+674348,-1,0,0,Antifungal,1
+674349,-1,0,0,Antifungal,1
+674350,100208,0,0,Tranquilizer (minor),1
+674353,-1,1,0,Antihypertensive; Anti-Anginal,1
+674356,-1,0,0,Bronchodilator,1
+674361,100208,1,0,Antineoplastic,1
+674362,-1,1,0,Antiparkinsonian (D2 receptor agonist),1
+674370,-1,0,0,Antipsychotic,1
+674371,100208,1,0,Anesthetic (injectable),1
+674376,-1,0,0,Antihypertensive,1
+674377,-1,0,0,Relaxant (smooth muscle),1
+674382,75454,1,0,Diagnostic Aid,1
+674387,100207,1,0,Androgen,1
+674389,100208,0,0,Antifungal,1
+674395,100208,0,0,Bronchodilator,1
+674399,-1,0,0,Osteoporosis Treatment And Prevention; Paget's Disease Treatment,1
+674405,-1,1,0,Antiviral,1
+674406,-1,0,0,Diagnostic Aid (radiopaque medium),1
+674408,100207,1,0,"Diagnostic Aid (paramagnetic, brain disorders, spine disorders)",1
+674412,-1,1,0,Antihypotensive,1
+674423,100207,0,0,Sedative-Hypnotic,1
+674431,100208,0,0,Antisecretory (gastric),1
+674433,-1,0,0,Antibacterial,1
+674436,-1,0,0,,1
+674443,-1,1,0,Antidepressant,1
+674444,-1,0,0,Antifungal,1
+674449,-1,0,0,Antibacterial,1
+674451,100208,0,0,Glucocorticoid,1
+674454,-1,0,0,Enzyme Inhibitor (prolactin),1
+674459,-1,0,0,Diagnostic Aid (radiopaque medium),1
+674467,-1,0,0,Gonad-Stimulating Principle,1
+674472,-1,0,0,,1
+674474,-1,0,0,Antibacterial (systemic),1
+674478,100208,0,0,Neuromuscular Blocking Agent,1
+674482,-1,0,0,Analgesic (narcotic),1
+674485,-1,1,0,Antihypertensive; Enzyme Inhibitor (angiotensin-converting),1
+674496,59306,0,0,Anti-Inflammatory (topical),1
+674500,-1,0,0,Neuromuscular Blocking Agent,1
+674506,100207,0,0,Diagnostic Aid (radiopaque medium),1
+674511,-1,0,0,Antihypertensive,1
+674512,92167,0,0,Antihypertensive,1
+674514,-1,0,0,Inhibitor (HMG-CoA reductase); Antihyperlipidemic,1
+674536,100207,1,0,Androgen,1
+674537,-1,0,0,Anesthetic (local),1
+674539,-1,1,0,Antibacterial,1
+674540,-1,0,0,Antibacterial,1
+674544,-1,1,0,Diagnostic Aid (paramagnetic),1
+674546,-1,0,0,Anorexic,1
+674552,100208,0,0,Antimigraine,1
+674557,-1,1,0,Cardiac Depressant (anti-arrhythmic),1
+674558,-1,0,0,,1
+674564,-1,1,0,Anti-Inflammatory,1
+674565,100207,1,0,Diagnostic Aid (radiopaque medium),1
+674568,-1,0,0,Anti-Inflammatory,1
+674569,100208,0,0,Antihistaminic,1
+674572,-1,1,0,,1
+674575,59306,0,0,Progestin,1
+674576,-1,0,1,Antineoplastic; Radioactive Agent,1
+674580,75454,1,0,Neuromuscular Blocking Agent,1
+674587,100208,0,0,Relaxant (muscle),1
+674593,-1,0,0,Diagnostic Aid; Radioactive Agent,1
+674595,100208,1,0,,1
+674596,-1,0,0,Antineoplastic,1
+674599,-1,0,0,Neuromuscular Blocking Agent,1
+674600,-1,0,0,Antibacterial,1
+674607,100208,0,0,Antibacterial (ophthalmic),1
+674611,100208,0,0,Diuretic,1
+674617,-1,0,0,Antipsoriatic,1
+674621,-1,0,0,Antihypertensive,1
+674622,100208,0,0,LHRH Agonist,1
+674623,-1,0,0,Antibacterial,1
+674626,100208,1,0,Anti-Estrogen; Antineoplastic,1
+674629,-1,0,0,,1
+674632,-1,1,0,Anti-Asthmatic (leukotriene antagonist),1
+674633,-1,1,0,"Anesthesia, Adjunct To",1
+674637,-1,1,0,,1
+674643,100208,1,0,,1
+674645,-1,0,0,Anesthetic (inhalation),1
+674650,-1,0,0,Antibacterial,1
+674652,-1,0,0,Antibacterial,1
+674654,100208,0,0,Sedative-Hypnotic,1
+674661,-1,1,0,Antidepressant,1
+674672,-1,0,0,Antineoplastic,1
+674673,100207,0,0,Neuromuscular Blocking Agent,1
+674683,100207,0,0,Glucocorticoid,1
+674684,100207,0,0,Anesthetic,1
+674685,-1,0,0,,1
+674686,100146,1,0,,1
+674696,-1,0,0,Vasodilator (coronary),1
+674698,-1,0,0,Antipruritic (topical),1
+674708,100208,1,0,Neuromuscular Blocking Agent,1
+674710,100208,0,0,Antithrombotic,1
+674711,-1,0,0,Anti-Inflammatory (gastrointestinal),1
+674721,100207,0,0,Diagnostic Aid (radiopaque medium),1
+674725,-1,0,0,Glucocorticoid,1
+674726,-1,0,0,LHRH Agonist; Antineoplastic,1
+674727,100208,0,0,,1
+674730,-1,1,0,Antibacterial,1
+674732,-1,1,0,,1
+674740,-1,0,0,Sedative-Hypnotic,1
+674742,100208,0,0,Adrenergic (vasoconstrictor),1
+674749,100208,1,0,Antidepressant,1
+674750,-1,0,0,,1
+674754,-1,0,0,,1
+674755,92167,1,0,Anti-Inflammatory,1
+674756,-1,0,0,Antihypertensive,1
+674757,-1,1,0,Antipyretic; Anti-Inflammatory; Analgesic,1
+674758,-1,1,0,,1
+674760,-1,0,0,Anti-Asthmatic; Anti-Allergic,1
+674764,-1,0,0,Anti-Adrenergic (beta-receptor),1
+674768,-1,0,0,Analgesic (narcotic),1
+674770,-1,0,0,,1
+674771,-1,0,0,Antibacterial,1
+674777,-1,1,0,Antimanic,1
+674782,-1,0,0,Enzyme Inhibitor (angiotensin-converting),1
+674787,-1,0,0,Antifungal,1
+674788,-1,0,0,Anti-Adrenergic (beta-receptor),1
+674796,100208,0,0,Anti-Inflammatory (topical),1
+674801,-1,1,0,Antiviral,1
+674806,-1,0,0,Antibacterial,1
+674810,-1,0,0,Diagnostic Aid (lymphangiography),1
+674813,100207,0,0,Antihypertensive,1
+674816,100207,0,0,Anti-Inflammatory (topical),1
+674820,92167,0,0,Antibacterial,1
+674829,100208,0,0,Glucocorticoid,1
+674834,-1,0,0,Detergent,1
+674836,-1,1,0,Anti-Emetic,1
+674847,100208,0,0,Oxytocic; Prostaglandin,1
+674850,-1,0,0,"Diagnostic Aid (radiopaque medium, cholecystographic)",1
+674852,100208,0,0,Antimalarial,1
+674858,100207,0,0,Adrenocortical Suppressant,1
+674859,-1,0,0,Anti-Inflammatory (topical),1
+674865,-1,0,0,Benign Prostatic Hyperplasia Therapy Agent,1
+674873,100207,0,0,Antihypertensive,1
+674881,-1,0,0,Anti-Ulcerative; Gastric Acid Pump Inhibitor,1
+674883,-1,0,0,Diagnostic Aid (radiopaque medium),1
+674885,-1,0,0,Progestin,1
+674886,-1,0,0,,1
+674888,-1,0,0,Antibacterial,1
+674891,100208,1,0,Anti-Emetic,1
+674895,-1,0,0,Synergist (penicillin/cephalosporin); Inhibitor (beta-lactamase),1
+674901,-1,0,0,Anticholinergic,1
+674904,100207,0,0,Glucocorticoid,1
+674906,-1,1,0,,1
+674913,-1,0,0,Antibacterial,1
+674914,100207,0,0,,1
+674920,100207,0,0,,1
+674923,-1,0,0,Antitussive,1
+674926,-1,0,0,Glucocorticoid,1
+674927,100208,1,0,Antineoplastic,1
+674932,91889,1,0,Antineoplastic,1
+674935,-1,0,0,Antihypertensive; Anti-Anginal,1
+674937,-1,1,0,Antipsychotic,1
+674938,-1,1,0,Antihypertensive,1
+674940,100207,0,0,Anti-Inflammatory (topical),1
+674942,-1,0,0,Antibacterial,1
+674953,-1,0,0,Anti-Adrenergic (beta-receptor),1
+674954,-1,0,0,,1
+674956,-1,0,0,Antibacterial,1
+674962,-1,1,0,Enzyme Inhibitor (angiotensin-converting); Antihypertensive,1
+674964,100208,0,0,Anti-Inflammatory (gastrointestinal),1
+674967,100208,0,0,Antibacterial,1
+674970,100208,0,0,Antibacterial,1
+674971,92167,1,0,Cardiac Depressant (anti-arrhythmic),1
+674973,-1,0,0,Analgesic (urinary tract),1
+674978,100207,0,0,Anticholinergic,1
+674983,-1,0,0,Antimigraine,1
+674988,-1,0,0,Antineoplastic; Antiprotozoal,1
+674989,-1,0,0,Antifungal,1
+674994,-1,0,0,Antibacterial,1
+674995,-1,0,0,Antiglaucoma Agent; Psychotropic; Adrenergic (alpha-blocking); Neuroleptic,1
+674997,84147,0,0,Antibacterial,1
+675000,100208,0,0,Antifungal,1
+675001,-1,0,0,Anti-Allergic; Inhibitor (mediator release),1
+675007,-1,0,0,Antibacterial,1
+675008,-1,0,0,Enzyme Inhibitor,1
+675015,-1,0,0,Anti-Inflammatory,1
+675017,-1,1,0,Antidepressant,1
+675033,-1,1,0,Antidepressant,1
+675038,100207,0,0,Dopamine Agonist; Antidyskinetic; Antihyperprolactinemic,1
+675044,-1,0,0,,1
+675049,-1,0,0,Antibacterial,1
+675059,-1,0,0,,1
+675060,-1,0,0,Anti-Inflammatory,1
+675066,-1,1,0,Anti-Adrenergic (beta-receptor),1
+675067,-1,0,0,Antibacterial,1
+675069,-1,0,0,Antibacterial,1
+675071,-1,0,0,Analgesic,1
+675083,-1,1,0,Antagonist (to narcotics); Analgesic,1
+675085,100207,0,0,,1
+675090,75454,0,0,Antineoplastic,1
+675099,100207,0,0,,1
+675100,100208,1,0,,1
+675101,92167,0,0,Antimigraine,1
+675106,100208,1,0,Tranquilizer (minor),1
+675113,-1,0,0,Carbonic Anhydrase Inhibitor,1
+675114,-1,0,0,Analgesic (narcotic),1
+675116,100208,0,0,Estrogen,1
+675118,-1,0,0,,1
+675124,100207,0,0,Glucocorticoid,1
+675128,-1,0,0,Anti-Adrenergic (beta-receptor),1
+675130,-1,1,0,,1
+675135,-1,0,0,Antineoplastic,1
+675138,100207,1,0,,1
+675141,-1,1,0,,1
+675143,-1,0,0,,1
+675383,100207,0,0,,1
+675414,-1,0,0,Radioactive Agent; Diagnostic Aid (lung imaging),1
+675454,100207,1,0,,1
+675462,-1,0,0,Anticoagulant,1
+675467,100208,0,0,,1
+675496,-1,0,0,Enzyme (proteolytic),1
+675516,-1,0,0,Antibacterial,1
+675519,-1,0,0,Antisense Antiviral Used In The Therapy of Cytomegalovirus Retinitis,1
+675524,-1,1,0,,1
+675525,100207,1,0,Anticoagulant,1
+675546,-1,0,0,Pulmonary Surfactant,1
+675551,-1,0,0,Diagnostic Aid (paramagnetic),1
+675554,100207,0,0,Enzyme Inhibitor (proteinase),1
+675589,-1,0,0,,1
+675591,100208,1,0,Hormone (growth),1
+675593,-1,0,0,Enzyme (proteolytic),1
+675597,100208,0,0,Antineoplastic,1
+675603,-1,0,0,Diagnostic Aid (paramagnetic),1
+675608,100207,0,0,Antithrombotic,1
+675637,-1,0,0,,1
+675679,-1,1,0,,1
+675680,100208,1,0,,1
+675684,-1,1,0,,1
+675696,100207,0,0,,1
+675698,100207,0,0,,1
+675699,-1,1,0,,1
+675700,100207,0,0,Anti-Inflammatory,1
+675703,100207,1,0,,1
+675705,-1,0,0,,1
+675726,-1,0,0,,1
+675733,-1,0,0,,1
+675736,-1,0,0,,1
+675812,100207,1,0,,1
+675813,100208,1,0,,1
+675815,100207,1,0,,1
+68396,84147,1,0,Antineoplastic,1
+685006,-1,0,0,,1
+685091,-1,0,0,,1
+685974,-1,1,0,,1
+691867,-1,0,0,,1
+699405,100207,0,0,Antineoplastic,1
+699416,100208,0,0,Analgesic,1
+699421,-1,0,0,,1
+699431,-1,0,0,Anti-Emetic,1
+699450,-1,0,0,Neuromuscular Blocking Agent,1
+699453,-1,0,0,Antihistaminic,1
+699456,-1,1,0,Oxytocic,1
+705121,-1,0,0,Anti-Urolithic (cystine calculi),1
+712273,-1,1,0,,1
+716337,84147,0,0,,1
+717,51886,0,0,Antineoplastic,1
+721,64807,0,0,Sedative-Hypnotic,1
+73547,75456,0,0,Hemostatic,1
+73548,-1,0,0,Antihypertensive; Diuretic,1
+74284,75455,0,0,Antiviral,1
+74911,100208,1,0,,1
+7494,64503,0,0,,1
+7714,64464,1,0,Neuroleptic,1
+78303,75454,0,0,Antagonist (to histamine-H2 receptors),1
+80209,100207,0,0,Antipsychotic,1
+8062,64085,1,0,Antineoplastic,1
+8130,64046,1,0,Vasodilator,1
+82047,100208,0,0,Anti-Allergic (prophylactic),1
+83044,-1,1,0,Anticonvulsant,1
+83515,-1,1,0,Antiviral,1
+83838,-1,0,0,"Bone Resorption Inhibitor; Osteoporosis Therapy Adjunct,Osteoporosis Therapy Adjunct,Osteoporosis Therapy Adjunct; Bone Resorption Inhibitor",1
+84624,64740,0,0,Antibacterial,1
+84644,-1,1,0,Relaxant (skeletal muscle),1
+85233,-1,0,0,Antiviral,1
+8543,59306,0,0,Vasodilator,1
+88100,64790,1,0,Antiviral,1
+88232,51886,0,0,,1
+88316,-1,0,0,Anticonvulsant,1
+9217,75456,0,0,Inhibitor (5-lipoxygenase),1
+923,64445,1,0,Immunosuppressant,1
+92412,-1,0,0,Antidyskinetic,1
+93117,100208,0,0,Anti-Inflammatory,1
+93617,100207,1,0,Antagonist (endothelin receptor),1
+93895,90849,1,0,,1
+94408,100208,0,0,Inhibitor (platelet),1
+94571,-1,1,0,Alcohol Deterrent,1
+9495,75454,0,0,Inhibitor (HMG-CoA reductase); Antihyperlipidemic,1
+95909,-1,1,0,Tranquilizer (minor),1
+95969,-1,0,0,Sedative-Hypnotic,1
+95970,100207,0,0,Sedative-Hypnotic,1
+96107,100207,1,0,,1
+96595,75456,1,0,Detoxifying Agent,1
+98346,64395,0,0,"Anti-Infective, Topical",1
+991212,-1,0,0,,1
