@@ -1,4 +1,3 @@
-images/*
 .DS_Store
-!images/chembl.png
-!images/google-bigquery.png
+images/*.svg
+
