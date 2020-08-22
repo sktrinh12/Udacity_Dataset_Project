@@ -133,7 +133,7 @@ SELECT *
 |hba_lipinski | 5.901333|
 |hbd_lipinski | 2.117333|
 |num_lipinski_ro5_violations | 0.254667|
-```
+
 
 > Furthermore, the most common chemical subgroup is benzene; the US has developed the most drug compounds and more specifically Pfizer has the most drugs on the market.
 
