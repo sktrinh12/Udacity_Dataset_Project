@@ -1,18 +1,18 @@
-# ChEMBL small-molecule dataset 
-## by Spencer Trinh 
+# ChEMBL small-molecule dataset
+## by Spencer Trinh
 
 
 ## Dataset
 
-> ChEMBL Data is a manually curated database of small molecules used in drug discovery, including information about existing patented drugs 
+> ChEMBL Data is a manually curated database of small molecules used in drug discovery, including information about existing patented drugs
 
-> The `Google BigQuery` query is shown below to obtain the three datasets. The three `csv` files were combined using `pandas`. There are three `csv` files because the free trial version of `Goolge BigQuery` has a limit to the memory usage for querying public datasets, therefore three separate queries were run and combined in the end. 
+> The `Google BigQuery` query is shown below to obtain the three datasets. The three `csv` files were combined using `pandas`. There are three `csv` files because the free trial version of `Goolge BigQuery` has a limit to the memory usage for querying public datasets, therefore three separate queries were run and combined in the end.
 
 > - First query:
 ```
 SELECT *
   FROM (
-  SELECT 
+  SELECT
   molregno,
   cmpd_rec.doc_id,
   comp.company,
@@ -33,7 +33,7 @@ SELECT *
   JOIN `patents-public-data.ebi_chembl.products_23` AS prod USING (product_id)
 
   ) as subq
- WHERE rn =1 
+ WHERE rn =1
  LIMIT 1000;
 
 ```
@@ -42,7 +42,7 @@ SELECT *
 ```
 SELECT *
   FROM (
-  SELECT 
+  SELECT
   molregno,
   cmpd_rec.doc_id,
   cmpd_struc.canonical_smiles,
@@ -92,7 +92,7 @@ SELECT *
 ```
 SELECT *
   FROM (
-  SELECT 
+  SELECT
   cmpd_rec.molregno,
   cmpd_rec.doc_id,
   md.black_box_warning,
@@ -134,10 +134,11 @@ SELECT *
 |hbd_lipinski | 2.117333|
 |num_lipinski_ro5_violations | 0.254667|
 ```
-> Furthermore, the most common chemical subgroup is benzene; the US has developed the most drug compounds and more specifically Pfizer has the most drugs on the market. 
+
+> Furthermore, the most common chemical subgroup is benzene; the US has developed the most drug compounds and more specifically Pfizer has the most drugs on the market.
 
 ## Key Insights for Presentation
 
-> In this dataset, neutral compounds are the most common at 349 in count. The least are zwitterions which are molecules or ions having separate positively and negatively charged groups. The nitrile group is acidic and seems to have the highest qed scores. Since benzene chemical subgroups are so ubiquitous they have very high density in the inner region of the violin plots. Molecules or compounds that have peptide bonds and are considered a zwitterion have very low qed scores, likewise with terpenes. Nitrile groups seem to have the highes qed scores. This seems to be correct since nitriles are very polar and act as a good hydrogen bond acceptor. 
+> In this dataset, neutral compounds are the most common at 349 in count. The least are zwitterions which are molecules or ions having separate positively and negatively charged groups. The nitrile group is acidic and seems to have the highest qed scores. Since benzene chemical subgroups are so ubiquitous they have very high density in the inner region of the violin plots. Molecules or compounds that have peptide bonds and are considered a zwitterion have very low qed scores, likewise with terpenes. Nitrile groups seem to have the highes qed scores. This seems to be correct since nitriles are very polar and act as a good hydrogen bond acceptor.
 
-> Benzene is very ubiquitous in all organic compounds, thus it was observed in most of the drug compounds in this dataset. Next in line are the ester groups and then double bond functional groups. Because this dataset is quite small, perhaps we aren't getting the full picture of how these chemical subgroups really count up. The selection of these chemical groups was arbitrary. There may be other chemical groups that could have been better to choose. 
+> Benzene is very ubiquitous in all organic compounds, thus it was observed in most of the drug compounds in this dataset. Next in line are the ester groups and then double bond functional groups. Because this dataset is quite small, perhaps we aren't getting the full picture of how these chemical subgroups really count up. The selection of these chemical groups was arbitrary. There may be other chemical groups that could have been better to choose.
